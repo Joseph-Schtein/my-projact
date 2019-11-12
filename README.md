@@ -21,4 +21,4 @@ The polynom class can receive any kind of addition and subtraction of monom type
 5.
 6.
 
-### this project was written by @joseph-schtein & @reuvenKlavan
+### this project was written by @joseph_schtein(t.z) & @Reuven_Klavan(205416365)
