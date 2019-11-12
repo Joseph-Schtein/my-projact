@@ -21,4 +21,11 @@ The polynom class can receive any kind of addition and subtraction of monom type
 5.
 6.
 
-### this project was written by @joseph_schtein(t.z) & @Reuven_Klavan(205416365)
+## External info:
+- Riemann's Integral: https://en.wikipedia.org/wiki/Riemann_integral
+- Root: https://www.geeksforgeeks.org/program-for-bisection-method/
+- Polynomial: https://en.wikipedia.org/wiki/Polynomial
+- Monomial: https://en.wikipedia.org/wiki/Monomial
+- Derivative: https://en.wikipedia.org/wiki/Derivative
+
+#### this project was written by @joseph_schtein(t.z) & @Reuven_Klavan(205416365)
