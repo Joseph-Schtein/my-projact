@@ -6,8 +6,19 @@ The Monom class can receive any symple monom of the form "+-ax^b" while 'a' belo
 The polynom class can receive any kind of addition and subtraction of monom type objects of the form "ax^b + cx^d +e" while 'a','c' and 'e' belongs to the rationale numbers, and 'b' and 'd' belong to the natural numbers.(https://en.wikipedia.org/wiki/Polynomial)
 
 
-# Mononm has the main functions:
+## Mononm has the main functions:
 1. Constructor - receives two numbers: 'a' Double, 'b' Integer and builds a Monom with coefficient 'a' and power 'b'.
 2. add - receives Monom and add it to another Monom only if the exponent are equal.
 3. multiply - receives Monom and multiplies it with another Monom, by multiplying the coefficient and adding the exponent.
 4. string - String constructor, recives string from user and converts it to Monom type.
+
+
+## Polynom has the main functions:
+1.
+2.
+3.
+4.
+5.
+6.
+
+### this project was written by @joseph-schtein & @reuvenKlavan
